@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Domzadanie7/1.0.0": {
+        "runtime": {
+          "Domzadanie7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domzadanie7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
